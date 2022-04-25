@@ -7,8 +7,31 @@
    viewBox="0 0 200 200"
    version="1.1"
    id="svg5"
+   sodipodi:docname="anchorcms.svg"
+   inkscape:version="1.2-alpha1 (b6a15bbbed, 2022-02-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="23.069359"
+     inkscape:cy="74.953319"
+     inkscape:window-width="3000"
+     inkscape:window-height="1876"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g127546" />
   <defs
      id="defs2">
     <marker
@@ -48,8 +71,16 @@
        d="m 100,77 v 55"
        id="stalk" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#415060;stroke-width:7.9;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart);marker-end:url(#TriangleStart)"
+       style="fill:none;fill-opacity:1;stroke:#415060;stroke-width:7.9;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:"
        d="m 63,106 c 10,21 20,26 37,26 17,0 25,-5 35,-26"
        id="hooks" />
+    <path
+       style="fill:#415060;fill-opacity:1;stroke:none;stroke-width:7.9;stroke-opacity:1"
+       d="M 53.257415,111.01695 55.20392,88.691738 73.861229,101.27119 Z"
+       id="path11656" />
+    <path
+       style="fill:#415060;fill-opacity:1;stroke:none;stroke-width:7.9;stroke-opacity:1"
+       d="m 124.91406,101.58984 18.6211,-12.562496 1.97656,22.371096"
+       id="path11820" />
   </g>
 </svg>
