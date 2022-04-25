@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="-1.6756115"
+       refY="-0.11060666"
+       orient="auto-start-reverse"
+       markerWidth="19.353619"
+       markerHeight="22.818008"
+       viewBox="0 0 5.3244081 6.1553851"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <rect
+     style="fill:#ebeef1;fill-opacity:1;stroke:none;stroke-width:20.0086;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect126118"
+     width="200"
+     height="200"
+     x="0"
+     y="0"
+     ry="6" />
+  <g
+     id="g127546">
+    <path
+       id="ring"
+       style="fill:#415060;fill-opacity:1;stroke-width:5;stroke-linecap:round"
+       d="M 100,49 A 16,16 0 0 0 84,65 16,16 0 0 0 100,81 16,16 0 0 0 116,65 16,16 0 0 0 100,49 Z m 0,8.195312 A 7.8039312,7.8039312 0 0 1 107.80469,65 7.8039312,7.8039312 0 0 1 100,72.804688 7.8039312,7.8039312 0 0 1 92.195312,65 7.8039312,7.8039312 0 0 1 100,57.195312 Z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#415060;stroke-width:7.9;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100,77 v 55"
+       id="stalk" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#415060;stroke-width:7.9;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart);marker-end:url(#TriangleStart)"
+       d="m 63,106 c 10,21 20,26 37,26 17,0 25,-5 35,-26"
+       id="hooks" />
+  </g>
+</svg>
