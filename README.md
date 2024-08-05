@@ -19,22 +19,23 @@
 </a>
 </div>  
 
-### What a pleasant surprise!  
-I’m a full-stack developer who has 12 years of programming passion, and what I can say is that I ***love*** to write code! I love writing excellent back-end code for your inspiring front-end, as well as taking 2 weeks to write a tool to do a job that takes 2 minutes. My weapon of choice is Javascript, in the NodeJS runtime, but I can learn anything pretty quickly.
+### What a pleasant surprise!
 
-Something you don't find often: I enjoy interpreting client requirements into future-proofed functional back-end code that can be wrapped by an exciting and beautiful front-end! There's something exciting about trying to figure out what the client wants, and building something that blows their expectations!
+I’m a full-stack developer who has 14 years of programming passion, in an increasing selection of languages, paradigms, and frameworks! I love thrive on crafting optimised back-end code for your inspiring front-end, as well as taking 2 weeks building a tool for a job that takes 2 minutes. My weapon of choice? Javascript in the NodeJS runtime; but I can pick up new languages and tools with ease.
 
-I love designing tools that are low-code, robust, and simple. I aim to make them intuitive so that anyone can grab them and instantly know how to use them. This is also how I aim to give back to the *open-source community*; by making my tools available for anyone to use.
+Something you don't find often: I enjoy interpreting client requirements into resilient functional back-end code that can be wrapped by an exciting and beautiful front-end! There's something exciting about trying to figure out what the client wants, and building something that blows their expectations!
+
+I've also completed SANS SEC522: Securing Web Applications, APIs, and Microservices, and it's helped me to understand the ideal DevSecOps environment. I'm still looking for a full project to implement these skills and knowledge, so if you have one, let me know!
+
+Designing and developing tools that are low-code, robust, and simple is my jam. I prioritise user intuitiveness and developer simplicity, so anyone and everyone can jump in with ease. This is also how I aim to give back to the *open-source community*; by making my tools available for anyone to use.
 
 Oh, and did I mention that I love to DJ?
 
-Please, give me a follow and enjoy your stay!  
-  
-## Rapidfire  
-- 🔭 I’m currently working on [Spinnr](https://github.com/Spinnr/spinnr)  
-- 🌱 I’m currently learning Rust, so I can use Tauri  
-- 🎮 My game at the moment is Destiny 2  
-- 💿 I love to DJ Tech House, Minimal House, Bass House, and Underground music!  
+## Rapidfire
+- 🔭 I’m currently working on [Spinnr](https://github.com/Spinnr/spinnr)
+- 🌱 I’m currently learning Rust, so I can use Tauri
+- 🎮 My game at the moment is Destiny 2
+- 💿 I love to DJ Tech House, Minimal House, Bass House, and Underground music!
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thebrenny&show_icons=true&theme=dark&custom_title=TheBrenny%27s%20Github%20Stats&title_color=F8A902&bg_color=50,4B3311,111111" align="center" /></div>  
 
