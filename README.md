@@ -105,7 +105,7 @@ Here are some projects which I'm actively following and contributing to!
 
 ## Support Me
 
-Hey! Pretty cool that you want to help me help you! If you're not convinced enough to spend a couple bucks on a cold or hot brew, then a follow or a few stars on your favourite projects will help!
+Pretty cool that you want to help me help you! If you're not convinced enough to spend a couple bucks on a cold or hot brew, then a follow or a few stars on my projects will help!
 
 However, if you enjoy getting on the beers as much as I do, then feel free to drop a couple kangaroo coins!
 
